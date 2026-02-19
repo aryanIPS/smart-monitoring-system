@@ -1,0 +1,4 @@
+
+pathway
+fastapi
+uvicorn

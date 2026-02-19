@@ -1,0 +1,5 @@
+{
+  "name": "EcoStream - Smart Sustainability Monitor",
+  "description": "A real-time sustainability monitoring dashboard powered by Pathway streaming engine and Gemini AI. Monitors electricity and water usage, detects anomalies, and provides AI-driven mitigation strategies.",
+  "requestFramePermissions": []
+}
